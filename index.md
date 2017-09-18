@@ -8,6 +8,5 @@
       * [Privacy and the Government](privacyAndTheGovernment.md)
       * [Computer and Network Security](computerAndNetworkSecurity.md)
       * [Computer Reliability](computerReliability.md)
-      * [Professional Ethics](professionalEthics.md)
       * [Work and Wealth](workAndWealth.md)
   * [Meeting Minutes](meetingMinutes.md)
