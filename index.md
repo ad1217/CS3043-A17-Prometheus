@@ -10,3 +10,4 @@
       * [Computer Reliability](computerReliability.md)
       * [Professional Ethics](professionalEthics.md)
       * [Work and Wealth](workAndWealth.md)
+  * [Meeting Minutes](meetingMinutes.md)
