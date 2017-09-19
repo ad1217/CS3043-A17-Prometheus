@@ -15,9 +15,6 @@ To discuss whether the government would have any rights to the technology that w
 
 Rule Utilitarianism would be an excellent way to show that the company should have rights to the alien technology that they found. The basic moral rule would be: If you fund an expedition and find a new alien technology you should have exclusive rights to that technology. Allowing all companies and individuals to have rights to the knowledge behind the technology would allow more ideas to develop faster and there would be more inventions. This would help every person in the world, but would be a negative to the world. However, if a company will have no gains financially from discovering alien technology they would have no reason to spend a lot of money to find it in the first place. If no one found any new technology, no one would benefit from that and this would be a bigger negative than just a slower process to new technology.  This would mean that the rule would cause a net benefit to society and be an ethically correct decision to allow the company to have full rights to the technology.
 	
-
-(i forgot what format we agreed on but it should take two seconds with the URL)
-Sources:
 [^1]: http://www.spacex.com/sites/spacex/files/spacex_standard_terms_and_conditions.pdf
 [^2]: http://au4sb9ax7m.search.serialssolutions.com/?ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=A+bone+to+pick%3A+the+Paleontological+Resources+Preservation+Act+and+its+effect+on+commercial+paleontology&rft.jtitle=Albany+Government+Law+Review&rft.au=Cronin%2C+Keith&rft.date=2014-03-22&rft.pub=Albany+Law+School&rft.issn=2328-2975&rft.volume=7&rft.issue=1&rft.spage=267&rft.externalDBID=ACJTS&rft.externalDocID=367567492&paramdict=en-US
 [^3]:http://www.jstor.org/stable/pdf/760465.pdf?refreqid=excelsior%3A774f019a7118a48ff819389047770a37
