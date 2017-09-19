@@ -7,13 +7,13 @@
      * assigned sections to each member
  * Next meeting: 2017-09-18 14:00 in the library
 
- ### Monday 2017-09-18
+### Monday 2017-09-18
  
  * Fill out each of our sections
  * Mainly serve as structured time for us to work
  * Next meeting: 2017-09-19 14:00 in the library
  
-  ### Tuesday 2017-09-19
+### Tuesday 2017-09-19
   
  * Revise and proof read other sections and provide feedback
  * Mainly serve as structured time for us to work and edit
