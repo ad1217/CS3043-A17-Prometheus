@@ -1,6 +1,6 @@
 ## Contents:
 
-  * [Technology List](tech.md)
+  * [Timeline and Technology List](tech.md)
   * Topics
       * [Networked Communications](networkedCommunications.md)
       * [Intellectual Property](intellectualProperty.md)
