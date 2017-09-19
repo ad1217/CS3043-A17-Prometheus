@@ -7,5 +7,6 @@ There is not much of a government in Prometheus; they are too far away from Eart
 
 However, even in current times, ships at sea don't really have much legal oversight. A New York Times article describes how "laws are ... often weak, contradictory and easily skirted by criminals. National and international agencies usually have neither the inclination nor resources to enforce them." [^2] Given that Prometheus takes place 35 light-years, or 2 years travel, from Earth, the actual likelihood of enforcement is extremely small. From this, we conclude that there can be no issues with "Privacy and the Government", as there is no government. For privacy issues in general, see [Information Privacy](informationPrivacy.md).
 
-[^1]: Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, Including the Moon and Other Celestial Bodies, https://www.state.gov/t/isn/5181.htm
-[^2]: Ian Urbina, Stowaways and Crimes Aboarda Scofflaw Ship, https://www.nytimes.com/2015/07/19/world/stowaway-crime-scofflaw-ship.html
+
+[^1]: Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, Including the Moon and Other Celestial Bodies, Jan. 27, 1967. Retrieved September 17, 2017, from https://www.state.gov/t/isn/5181.htm
+[^2]: Urbina, I. (2015, July 17). Stowaways and Crimes Aboard a Scofflaw Ship. Retrieved September 17, 2017, from https://www.nytimes.com/2015/07/19/world/stowaway-crime-scofflaw-ship.html
