@@ -1,5 +1,7 @@
 # Technology in Prometheus
 
+## Timeline
+
   1. 0:08:00 Large spaceship
   2. 0:13:00 cryopods for long distance transport
   3. 0:16:00 android (David)
@@ -22,3 +24,26 @@
   15. 1:22:30 really fancy med pods again (with lasers)
   16. 1:36:00 alien spaceship
   17. 1:27:00 alien "hyper sleep chambers" (cryo pods)
+
+## Breakdown
+  * Existing technology:
+    * Atmosphere scanning
+    * Audio-visual suit transmitters
+    * Med scanner (cat scan)
+
+  * Future:
+    * Interstellar space travel (ion drive)
+    * Cryo pods
+    * Dream scanning
+
+  * Emerging:
+    * 3d mapping
+    * Dna analysis
+    * Surgical robot
+
+  * Impossible:
+    * Holographic displays
+        * Probably impossible, unless maybe LED nanobots
+    * FTL travel (35 lightyears from Earth, took 2 years)
+    * Plausible:
+    * Realistic android with facial muscles, possibly passing the Turing Test
