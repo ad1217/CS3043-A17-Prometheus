@@ -18,4 +18,10 @@
  * Revise and proof read other sections and provide feedback
  * Mainly serve as structured time for us to work and edit
  * Next meeting: TBD
- 
+
+
+### Wednesday 2017-09-27
+
+ * Discussed and assigned current sections
+ * discussed presentation topic
+ * Next Meeting: 2017-09-28 16:00 in library
