@@ -1,6 +1,6 @@
 # Privacy and the Government
 
-There is not much of a government in Prometheus; they are too far away from Earth to send messages, and the only authority is the company that funded the expidition. By current laws, they are still beholden to their State government. Article VI of the Outer Space Treaty States:
+There is not much of a government in Prometheus; they are too far away from Earth to send messages, and the only authority is the company that funded the expedition. By current laws, they are still beholden to their State government. Article VI of the Outer Space Treaty States:
 
 > States Parties to the Treaty shall bear international responsibility for national activities in outer space, including the Moon and other celestial bodies, whether such activities are carried on by governmental agencies or by non-governmental entities, and for assuring that national activities are carried out in conformity with the provisions set forth in the present Treaty. **The activities of non-governmental entities in outer space, including the Moon and other celestial bodies, shall require authorization and continuing supervision by the appropriate State Party to the Treaty.** When activities are carried on in outer space, including the Moon and other celestial bodies, by an international organization, responsibility for compliance with this Treaty shall be borne both by the international organization and by the States Parties to the Treaty participating in such organization.[^1]
 (emphasis mine)
