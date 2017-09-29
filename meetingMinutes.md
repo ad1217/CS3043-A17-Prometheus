@@ -25,3 +25,8 @@
  * Discussed and assigned current sections
  * discussed presentation topic
  * Next Meeting: 2017-09-28 16:00 in library
+
+### Thursday 2017-09-28
+
+ * Discussed slides
+ * Next Meeting: 2017-09-29 14:00 in library
