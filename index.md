@@ -14,3 +14,5 @@ In Prometheus, an expedition sets out from earth to find humanity's origins. On 
       * [Computer Reliability](computerReliability.md)
       * [Work and Wealth](workAndWealth.md)
   * [Meeting Minutes](meetingMinutes.md)
+
+  * Slides: [PDF](Prometheus slides.pdf) [PPTX](Prometheus slides.pptx)
