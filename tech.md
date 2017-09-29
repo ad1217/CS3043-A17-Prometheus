@@ -3,13 +3,13 @@
 ## Timeline
 
   * 0:08:00 Large spaceship
-  * 0:13:00 cryopods for long distance transport
+  * 0:13:00 "Hypersleep Chamber" cryopods for long distance transport
   * 0:16:00 android (David)
-  * holographic projectors (they use these a lot throughout the movie)
-  * Med pods
+  * "Weyland Modular Computing Device" holographic projectors
+      * they use the holographic projection a lot throughout the movie, but not these exact devices
+  * Medpod
   * 3d terrain scanning and instant atmosphere scanning
-  * 0:31:00 flying 3D scanner laser orb mapping things ("pups")
-      * 0:54:00 people managed to get lost, despite having a full 3d map of the entire place using the pups
+  * 0:31:00 "Spectagraph" flying 3D scanner laser orb mapping things ("pups")
   * 0:35:15 ancient alien(?) technology, with buttons and more holograms
       * auto-death-recording tech, apparently
   * 0:47:30 medical devices: scanner, stimulant and freezing things
@@ -45,5 +45,6 @@ Impossible:
   * Holographic displays
   * Probably impossible, unless maybe LED nanobots
   * FTL travel (35 lightyears from Earth, took 2 years)
-  * Plausible:
+
+Plausible:
   * Realistic android with facial muscles, possibly passing the Turing Test
